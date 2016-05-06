@@ -1,0 +1,3 @@
+service sensingpintu akan mengikuti service utama
+jika service utama nyala --> sensingpintu nyala
+jika service utama mati --> sensingpintu mati

@@ -1,0 +1,16 @@
+1. fresh install, update, upgrade, dist-upgrade, rpi-update
+2. mkdir indisbuilding
+3. install pip python (with update --fix-missing before)
+4. install paho-mqtt
+5. create buzzer.py
+6. create lampu.py
+7. create pintu.py
+8. create sensingpintu.py (not finished yet)
+9. backup
+10. install weaved
+11. finishing sensingpintu.py
+12. create utama.py 
+13. ready to test
+14. revised utama.py
+15. create direct to mail system
+16
