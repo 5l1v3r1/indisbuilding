@@ -13,6 +13,7 @@ Kelebihan sistem baru : Sudah menggunakan toekn JWT (JSON Web Token) untuk keama
 
 NB : 
 1. Masih perlu cari cara yg lebih efektif untuk menjalankan program utama dan sensing pintu secara simultan supaya tidak saling mengganggu satu sama lain, terutama saat proses pengiriman gambar dari kamera saat pintu dibuka paksa.
+
 2. Perlu teknik kompresi gambar (sementara akan dicoba via PIL (Python Image Library)) untuk mengecilkan ukuran gambar tanpa mengurangi kualitas gambar secara signifikan. Rata-rata ukuran gambar hasil jepret kamera memakan sekitar 200-300 kB. Ini tentu besar dan memerlukan waktu lama untuk upload jika koneksi tidak stabil dan lambat. Ditargetkan ukuran file bisa direduksi hingga puluhan KB (20-30 KB), bahkan kalau bisa hanya belasan atau satuan KB saja.
 
 
